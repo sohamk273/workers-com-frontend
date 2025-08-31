@@ -1,0 +1,8 @@
+* { margin: 0; padding: 0; box-sizing: border-box; font-family: Arial, sans-serif; }
+body { background-color: #f8f9fa; color: #333; }
+header { background-color: #007bff; color: white; padding: 1rem; text-align: center; }
+header nav button { padding: 0.5rem 1rem; margin-top: 0.5rem; cursor: pointer; }
+h2 { margin: 1rem 0; text-align: center; }
+.service-grid, .worker-grid { display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; }
+.service-card, .worker-card { background: white; padding: 1rem; border-radius: 8px; width: 200px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center; }
+footer { text-align: center; padding: 1rem; margin-top: 2rem; background: #e9ecef; }
